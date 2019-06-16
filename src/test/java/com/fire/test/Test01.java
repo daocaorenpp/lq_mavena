@@ -6,6 +6,6 @@ public class Test01 {
     @Test
     public void test(){
         Hello hello = new Hello();
-        hello.hello();
+        hello.hello1();
     }
 }
